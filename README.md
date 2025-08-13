@@ -87,6 +87,6 @@ I build reliable web & mobile products (Node.js, React/React Native), design dat
 
 ### Contact & Links
 - 🌐 **Emerald Digital:** https://emeraldigital.com/  
-- 💼 **LinkedIn:** (añade tu URL)  
-- ✉️ **Email:** (opcional)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jmanuel-ruiz/  
+- ✉️ **Email:** jmanuel.ruiz@emerald.dev
 
